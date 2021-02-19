@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to jitoh trial Github page. I created this page on the 20th February 2021 at 10:53am.
 
 You can use the [editor on GitHub](https://github.com/jitoh/jitoh.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
@@ -11,7 +11,7 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```markdown
 Syntax highlighted code block
 
-# Header 1
+# Test header
 ## Header 2
 ### Header 3
 
